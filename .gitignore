@@ -1,5 +1,7 @@
+.classpath
 .project
+.settings/
 nbproject/
-nbproject/*
 target/
-target/*
+.idea/
+
